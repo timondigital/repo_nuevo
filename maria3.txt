@@ -1,3 +1,7 @@
 Archivo de texto para repositorio numero 3
 
+<<<<<<< HEAD
 Esta es mi linea de trabajo del punto 7 
+=======
+hola, soy una modificacion
+>>>>>>> b38a5b003a08173afb987cbce17163bd19b25121
