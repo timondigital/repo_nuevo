@@ -1,1 +1,3 @@
 Hola yo soy Maria
+
+Hola que tal este es el punto 6 del trabajo de intruduccion a la informatica
